@@ -401,10 +401,9 @@ body{
   text-decoration: none;
 }
 #cssSlider{
-  width: 90%;
+  width: 100%;
   height: 450px;
   overflow: hidden;
-  margin: auto;
 }
 #slideDiv{
   width: 2320px;
