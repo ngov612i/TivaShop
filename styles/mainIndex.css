@@ -7,7 +7,7 @@ body{
   font-family: sans-serif;
 }
 .clearfix{
-  *zoom: 1;
+  zoom: auto;
 }
 .clearfix::after{
   content: "";
